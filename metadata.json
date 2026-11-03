@@ -1,0 +1,6 @@
+{
+  "name": "Central de Atendimento ao Aluno — Etec Prof. Dr. José Dagnoni",
+  "description": "Sistema institucional de atendimento acadêmico, protocolo de requerimentos, fila presencial e agendamento de secretaria da Etec Prof. Dr. José Dagnoni (Centro Paula Souza).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
